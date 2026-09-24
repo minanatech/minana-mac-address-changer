@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Minana MAC Address Changer for Windows by Minana Tech">
+<rect width="1280" height="360" rx="24" fill="#0c111b"/>
+<rect x="55" y="55" width="76" height="76" rx="20" fill="#75e5c0"/>
+<path d="M73 112V74h9l11 16 12-16h9v38h-9V91l-12 16-11-16v21z" fill="#0c3026"/>
+<text x="151" y="88" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#edf4fc" font-weight="600">MINANA TECH</text>
+<text x="151" y="115" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#96a7bc">OPEN-SOURCE NETWORK UTILITIES</text>
+<text x="55" y="210" font-family="Segoe UI,Arial,sans-serif" font-size="55" fill="#edf4fc" font-weight="600">MAC Address Changer</text>
+<text x="58" y="254" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#96a7bc">View adapters. Generate an address. Apply and verify.</text>
+<text x="58" y="312" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#75e5c0">WINDOWS 10 / 11  ·  C# + WPF  ·  MIT LICENSE</text>
+<text x="1050" y="312" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#75e5c0">minanatech.com</text>
+<g stroke="#273345" fill="none" stroke-width="2"><rect x="997" y="65" width="200" height="130" rx="18"/><path d="M1030 104h134m-134 27h92m-92 27h114"/><circle cx="1164" cy="158" r="7" fill="#75e5c0" stroke="none"/></g>
+</svg>
