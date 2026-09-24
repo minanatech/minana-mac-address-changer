@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>MinanaMac</AssemblyName>
+    <RootNamespace>MinanaMac</RootNamespace>
+    <Version>0.1.0</Version>
+    <Company>Minana Tech</Company>
+    <Product>Minana MAC Address Changer</Product>
+    <Description>An open-source Windows MAC address changer by Minana Tech.</Description>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>assets/minana.ico</ApplicationIcon>
+  </PropertyGroup>
+</Project>
